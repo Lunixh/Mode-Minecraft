@@ -1,0 +1,20 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bettermc:block/pixel"
+  },
+  "elements": [
+    {
+      "from": [7.5, 7.5, 7.5],
+      "to": [8.5, 8.5, 8.5],
+      "faces": {
+        "north": {"uv": [0, 0, 1, 1], "texture": "#all"},
+        "east": {"uv": [0, 0, 1, 1], "texture": "#all"},
+        "south": {"uv": [0, 0, 1, 1], "texture": "#all"},
+        "west": {"uv": [0, 0, 1, 1], "texture": "#all"},
+        "up": {"uv": [0, 0, 1, 1], "texture": "#all"},
+        "down": {"uv": [0, 0, 1, 1], "texture": "#all"}
+      }
+    }
+  ]
+}

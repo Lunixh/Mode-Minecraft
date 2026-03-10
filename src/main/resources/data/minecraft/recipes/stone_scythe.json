@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "CCC",
+    "  S",
+    "  S"
+  ],
+  "key":
+  {
+    "C":
+    {
+      "item": "minecraft:cobblestone"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "bettermc:stone_scythe",
+    "count": 1
+  }
+}

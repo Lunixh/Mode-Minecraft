@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DDD",
+    "  S",
+    "  S"
+  ],
+  "key":
+  {
+    "D":
+    {
+      "tag": "forge:gems/diamond"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "bettermc:diamond_scythe",
+    "count": 1
+  }
+}
